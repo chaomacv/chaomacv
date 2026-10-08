@@ -26,10 +26,9 @@
 
 ### 🛠️ 代表项目
 
-- **铁路多模态异常识别与定位**：融合领域知识、多模态推理与视觉 Grounding。  
-  [项目主页](https://chaomacv.github.io/RAIL-SECURTTY-BENCH/)
-- **铁路视频异常合成数据集**：基于 Blender 构建自动化生成框架，覆盖 228 个场景、11 类异常及 2,119 个高清视频。
-- **半监督视频协作标注工具**：支持多目标协作标注与人工修正，首帧单目标标注耗时由 25.5 秒降至 6.7 秒，获校级创新设计奖。
+- [**algorithm-upgrade-rag-agent-demo-zh**](https://github.com/chaomacv/algorithm-upgrade-rag-agent-demo-zh)：基于 RAG 与 Coding Agent 构建算法升级、工程集成与自动化验证工作流。
+- [**beijing-open-data-enterprise-risk**](https://github.com/chaomacv/beijing-open-data-enterprise-risk)：面向企业风控场景，构建北京市公共数据清洗、结构化与企业画像标签化流程。
+- [**铁路多模态异常识别与定位**](https://chaomacv.github.io/RAIL-SECURTTY-BENCH/)：融合领域知识、多模态推理与视觉 Grounding，开展铁路异常识别、风险分析与空间定位。
 
 ### 📫 联系我
 
