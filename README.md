@@ -1,10 +1,36 @@
-- 👋 Hi, I’m chao ma
-- 👀 I’m interested in code
-- 🌱 I’m currently learning pytorch
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me chao.macv@gmail.com
+# Hi, I'm Chao Ma 👋
 
-<!---
-chaomacv/chaomacv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+我是马超，北京交通大学人工智能专业硕士在读，关注多模态大模型、模型后训练与 AI Agent，致力于将 AI 算法应用于实际业务与工程场景。
+
+### 🎓 教育背景
+
+- **北京交通大学 · 人工智能（电子信息）硕士**｜2024.09 – 至今
+- **北京交通大学 · 计算机科学与技术本科**｜2020.09 – 2024.06
+
+### 🔬 技术方向
+
+- **大模型与后训练**：LLM / VLM、SFT、GRPO / GSPO、知识蒸馏与合成数据
+- **AI Agent**：多模态 Agent、Coding Agent、RAG、工具调用与自动化验证
+- **工程与评测**：Python / PyTorch、C / C++、Linux、数据构建与模型评测
+
+### 💼 实习经历
+
+- **华为 · AI 算法岗**｜2026.06 – 2026.08  
+  基于 RAG 与 Coding Agent 构建算法升级和工程验证工作流，单次任务平均人工交互轮次由约 24 轮降至 15 轮。
+
+- **兴业银行北京分行 · 数据开发岗**｜2026.02 – 2026.04  
+  构建多源业务数据清洗与标签化流程，沉淀近 80 万条高相关数据及 40+ 企业画像标签。
+
+- **中国铁道科学研究院 · 人工智能科研岗**｜2025.09 – 2026.01  
+  研发铁路多模态推理与视觉定位 Agent，完成 Qwen3-VL-8B 后训练与异常定位评测，相关成果以第一作者投稿 IEEE 期刊，审稿中。
+
+### 🛠️ 代表项目
+
+- **铁路多模态异常识别与定位**：融合领域知识、多模态推理与视觉 Grounding。  
+  [项目主页](https://chaomacv.github.io/RAIL-SECURTTY-BENCH/)
+- **铁路视频异常合成数据集**：基于 Blender 构建自动化生成框架，覆盖 228 个场景、11 类异常及 2,119 个高清视频。
+- **半监督视频协作标注工具**：支持多目标协作标注与人工修正，首帧单目标标注耗时由 25.5 秒降至 6.7 秒，获校级创新设计奖。
+
+### 📫 联系我
+
+[24125336@bjtu.edu.cn](mailto:24125336@bjtu.edu.cn)
