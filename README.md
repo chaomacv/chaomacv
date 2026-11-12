@@ -12,19 +12,19 @@
 **[Experience-Guided Code Agent](https://chaomacv.github.io/experience-guided-code-agent/)**
 
 <a href="https://chaomacv.github.io/experience-guided-code-agent/">
-  <img src="assets/showcase/code-agent-button.svg" width="360" alt="点击进入 Experience-Guided Code Agent 交互展示页">
+  <img src="assets/showcase/code-agent-button.svg" width="300" alt="点击进入 Experience-Guided Code Agent 交互展示页">
 </a>
 
 **[PublicData-LLM](https://chaomacv.github.io/public-data-llm/)**
 
 <a href="https://chaomacv.github.io/public-data-llm/">
-  <img src="assets/showcase/public-data-button.svg" width="360" alt="点击进入 PublicData-LLM 交互展示页">
+  <img src="assets/showcase/public-data-button.svg" width="300" alt="点击进入 PublicData-LLM 交互展示页">
 </a>
 
 **[RailMind × Rail-Security-Bench](https://chaomacv.github.io/RAIL-SECURTTY-BENCH/)**
 
 <a href="https://chaomacv.github.io/RAIL-SECURTTY-BENCH/">
-  <img src="assets/showcase/railmind-button.svg" width="360" alt="点击进入 RailMind × Rail-Security-Bench 交互展示页">
+  <img src="assets/showcase/railmind-button.svg" width="300" alt="点击进入 RailMind × Rail-Security-Bench 交互展示页">
 </a>
 
 ---
