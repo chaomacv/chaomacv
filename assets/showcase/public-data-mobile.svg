@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="470" viewBox="0 0 640 470" role="img" aria-labelledby="title desc">
+<title id="title">PublicData-LLM — 点击进入交互展示页</title>
+<desc id="desc">方法流程示意。从分散的公开数据，到有据可查的企业情报。 交互数据图谱 · 企业网络 · 全流程溯源</desc>
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101c2e"/><stop offset="1" stop-color="#0b1322"/></linearGradient></defs>
+<rect x="1" y="1" width="638" height="468" rx="20" fill="url(#bg)" stroke="#2c3b52"/>
+<g font-family="Segoe UI, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+<rect x="0" y="28" width="5" height="56" rx="2" fill="#a7cbff" stroke="none"/>
+<text x="32" y="42" font-size="16" fill="#a7cbff" font-weight="700" text-anchor="start">02 / PUBLIC DATA INTELLIGENCE</text>
+<text x="32" y="94" font-size="36" fill="#edf3fb" font-weight="700" text-anchor="start">PublicData-LLM</text>
+<text x="32" y="138" font-size="36" fill="#edf3fb" font-weight="700" text-anchor="start">公开数据智能分析</text>
+<text x="32" y="180" font-size="23" fill="#c2ccdb" font-weight="400" text-anchor="start">从分散的公开数据，到有据可查的企业情报。</text>
+<rect x="32" y="212" width="180" height="70" rx="12" fill="#1e2e48" stroke="#3b506a"/>
+<text x="122" y="255" font-size="23" fill="#edf3fb" font-weight="600" text-anchor="middle">公开数据</text>
+<path d="M 214 247 h 13 m -5 -5 5 5 -5 5" fill="none" stroke="#a7cbff" stroke-width="2.5"/>
+<rect x="230" y="212" width="180" height="70" rx="12" fill="#1e2e48" stroke="#3b506a"/>
+<text x="320" y="255" font-size="23" fill="#edf3fb" font-weight="600" text-anchor="middle">LLM 抽取</text>
+<path d="M 412 247 h 13 m -5 -5 5 5 -5 5" fill="none" stroke="#a7cbff" stroke-width="2.5"/>
+<rect x="428" y="212" width="180" height="70" rx="12" fill="#1e2e48" stroke="#3b506a"/>
+<text x="518" y="255" font-size="23" fill="#edf3fb" font-weight="600" text-anchor="middle">画像与溯源</text>
+<rect x="32" y="318" width="576" height="64" rx="12" fill="#a7cbff" stroke="none"/>
+<text x="320" y="359" font-size="29" fill="#101c2e" font-weight="700" text-anchor="middle">点击进入交互展示页  ↗</text>
+<text x="32" y="430" font-size="23" fill="#c2ccdb" font-weight="400" text-anchor="start">看数据图谱 · 企业网络 · 来源证据</text>
+</g></svg>

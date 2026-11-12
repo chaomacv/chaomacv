@@ -5,7 +5,38 @@
 
 我关注多模态大模型、模型后训练与 AI Agent，围绕真实业务中的代码变更、公共数据理解和铁路异常巡检，构建从数据准备、模型适配到执行验证的完整流程。
 
-[代码变更 Agent](https://chaomacv.github.io/experience-guided-code-agent/) · [公开数据分析](https://chaomacv.github.io/public-data-llm/) · [铁路多模态研究](https://chaomacv.github.io/RAIL-SECURTTY-BENCH/) · [Email](mailto:24125336@bjtu.edu.cn)
+## 🚀 进入我的交互展示页
+
+**点击下方任意卡片，查看项目演示、方法图解与结果。**
+
+<a href="https://chaomacv.github.io/experience-guided-code-agent/">
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/showcase/code-agent-mobile.svg">
+  <img src="assets/showcase/code-agent.svg" width="100%" alt="点击进入 Experience-Guided Code Agent 交互展示页：检索架构动画 · 实战报告 · 扩展探索">
+</picture>
+</a>
+
+**[进入 Experience-Guided Code Agent 展示页 ↗](https://chaomacv.github.io/experience-guided-code-agent/)**
+
+<a href="https://chaomacv.github.io/public-data-llm/">
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/showcase/public-data-mobile.svg">
+  <img src="assets/showcase/public-data.svg" width="100%" alt="点击进入 PublicData-LLM 交互展示页：交互数据图谱 · 企业网络 · 全流程溯源">
+</picture>
+</a>
+
+**[进入 PublicData-LLM 展示页 ↗](https://chaomacv.github.io/public-data-llm/)**
+
+<a href="https://chaomacv.github.io/RAIL-SECURTTY-BENCH/">
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/showcase/railmind-mobile.svg">
+  <img src="assets/showcase/railmind.svg" width="100%" alt="点击进入 RailMind × Rail-Security-Bench 交互展示页：研究方法 · 六类巡检场景 · 交互数据引擎">
+</picture>
+</a>
+
+**[进入 RailMind × Rail-Security-Bench 展示页 ↗](https://chaomacv.github.io/RAIL-SECURTTY-BENCH/)**
+
+---
 
 ## 🛠️ 代表项目
 
@@ -15,7 +46,7 @@
 
 `Python` `RAG` `BGE-M3 + BM25` `LLM Planning` `Validation & Rollback`
 
-[项目展示](https://chaomacv.github.io/experience-guided-code-agent/) · [源码与复现](https://github.com/chaomacv/experience-guided-code-agent#quick-start)
+**[▶ 进入交互展示页](https://chaomacv.github.io/experience-guided-code-agent/)** · [源码与复现](https://github.com/chaomacv/experience-guided-code-agent#quick-start)
 
 ### [PublicData-LLM](https://github.com/chaomacv/public-data-llm)
 
@@ -23,7 +54,7 @@
 
 `Python` `Qwen3-8B` `DuckDB` `Entity Resolution` `Data Lineage`
 
-[交互展示](https://chaomacv.github.io/public-data-llm/) · [批次结果与统计口径](https://github.com/chaomacv/public-data-llm/blob/main/docs/full_run_results.md)
+**[▶ 进入交互展示页](https://chaomacv.github.io/public-data-llm/)** · [批次结果与统计口径](https://github.com/chaomacv/public-data-llm/blob/main/docs/full_run_results.md)
 
 ### [RailMind](https://github.com/chaomacv/RailMind)
 
@@ -31,13 +62,13 @@
 
 `Qwen3-VL` `GroundingDINO` `SFT` `GRPO / GSPO` `Multimodal Reasoning`
 
-[方法与代码](https://github.com/chaomacv/RailMind) · [研究主页](https://chaomacv.github.io/RAIL-SECURTTY-BENCH/)
+**[▶ 进入研究展示页](https://chaomacv.github.io/RAIL-SECURTTY-BENCH/)** · [方法与代码](https://github.com/chaomacv/RailMind)
 
 ### [Rail-Security-Bench](https://github.com/chaomacv/RAIL-SECURTTY-BENCH)
 
 **面向铁路基础设施安全的多模态异常理解与定位评测。** 覆盖钢桥、声屏障、周边环境、电力塔、轨道和接触网支柱六类巡检场景，提供研究展示、评测介绍及交互式数据引擎。
 
-[Benchmark 主页](https://chaomacv.github.io/RAIL-SECURTTY-BENCH/) · [交互式数据引擎](https://chaomacv.github.io/RAIL-SECURTTY-BENCH/data-engine/)
+**[▶ 查看 Benchmark 展示](https://chaomacv.github.io/RAIL-SECURTTY-BENCH/)** · **[体验交互式数据引擎 ↗](https://chaomacv.github.io/RAIL-SECURTTY-BENCH/data-engine/)**
 
 ## 💼 实习经历
 
