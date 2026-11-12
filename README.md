@@ -7,34 +7,25 @@
 
 ## 🚀 进入我的交互展示页
 
-**点击下方任意卡片，查看项目演示、方法图解与结果。**
+**点击下方按钮，查看对应项目的交互展示。**
+
+**[Experience-Guided Code Agent](https://chaomacv.github.io/experience-guided-code-agent/)**
 
 <a href="https://chaomacv.github.io/experience-guided-code-agent/">
-<picture>
-  <source media="(max-width: 640px)" srcset="assets/showcase/code-agent-mobile.svg">
-  <img src="assets/showcase/code-agent.svg" width="100%" alt="点击进入 Experience-Guided Code Agent 交互展示页：检索架构动画 · 实战报告 · 扩展探索">
-</picture>
+  <img src="assets/showcase/code-agent-button.svg" width="360" alt="点击进入 Experience-Guided Code Agent 交互展示页">
 </a>
 
-**[进入 Experience-Guided Code Agent 展示页 ↗](https://chaomacv.github.io/experience-guided-code-agent/)**
+**[PublicData-LLM](https://chaomacv.github.io/public-data-llm/)**
 
 <a href="https://chaomacv.github.io/public-data-llm/">
-<picture>
-  <source media="(max-width: 640px)" srcset="assets/showcase/public-data-mobile.svg">
-  <img src="assets/showcase/public-data.svg" width="100%" alt="点击进入 PublicData-LLM 交互展示页：交互数据图谱 · 企业网络 · 全流程溯源">
-</picture>
+  <img src="assets/showcase/public-data-button.svg" width="360" alt="点击进入 PublicData-LLM 交互展示页">
 </a>
 
-**[进入 PublicData-LLM 展示页 ↗](https://chaomacv.github.io/public-data-llm/)**
+**[RailMind × Rail-Security-Bench](https://chaomacv.github.io/RAIL-SECURTTY-BENCH/)**
 
 <a href="https://chaomacv.github.io/RAIL-SECURTTY-BENCH/">
-<picture>
-  <source media="(max-width: 640px)" srcset="assets/showcase/railmind-mobile.svg">
-  <img src="assets/showcase/railmind.svg" width="100%" alt="点击进入 RailMind × Rail-Security-Bench 交互展示页：研究方法 · 六类巡检场景 · 交互数据引擎">
-</picture>
+  <img src="assets/showcase/railmind-button.svg" width="360" alt="点击进入 RailMind × Rail-Security-Bench 交互展示页">
 </a>
-
-**[进入 RailMind × Rail-Security-Bench 展示页 ↗](https://chaomacv.github.io/RAIL-SECURTTY-BENCH/)**
 
 ---
 
