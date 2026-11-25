@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Chao Ma · AI Engineering and Research · 北京交通大学 · 2027 届">
+  <a href="#selected-projects"><img src="assets/project-showcase.gif" width="100%" alt="项目自动轮播：Experience-Guided Code Agent、PublicData-LLM、RailMind；每张停留 6 秒，点击查看代表项目"></a>
 </p>
 
 <h1 align="center">马超 · Chao Ma</h1>
