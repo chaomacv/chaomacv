@@ -36,13 +36,19 @@
 <p><strong>让历史工程经验成为代码变更的行动依据。</strong></p>
 <p>从人机对话中抽取可追溯的工程经验，通过混合检索增强 LLM 规划，完成代码修改、独立验收、失败重试与回滚，并交付代码、Patch 和运行证据。</p>
 <p><code>Python</code> <code>RAG</code> <code>BGE-M3 + BM25</code><br><code>LLM Planning</code> <code>Validation &amp; Rollback</code></p>
-<p><a href="https://chaomacv.github.io/experience-guided-code-agent/"><strong>交互展示 ↗</strong></a> · <a href="https://github.com/chaomacv/experience-guided-code-agent#quick-start">源码与复现</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>PublicData-LLM</h3>
 <p><strong>把异构公开数据转化为有来源证据的企业画像。</strong></p>
 <p>结合本地 Qwen、规则处理与实体关联，完成文件筛选、结构化抽取、标签聚合和来源追溯。公开工程最新批次为约 <strong>4,365 万条</strong>已知记录建立处理或排除台账，汇总约 <strong>597 万条事件观察、18 个类别</strong>，并保留待复核项。</p>
 <p><code>Python</code> <code>Qwen3-8B</code> <code>DuckDB</code><br><code>Entity Resolution</code> <code>Data Lineage</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="bottom">
+<p><a href="https://chaomacv.github.io/experience-guided-code-agent/"><strong>交互展示 ↗</strong></a> · <a href="https://github.com/chaomacv/experience-guided-code-agent#quick-start">源码与复现</a></p>
+</td>
+<td width="50%" valign="bottom">
 <p><a href="https://chaomacv.github.io/public-data-llm/"><strong>交互展示 ↗</strong></a> · <a href="https://github.com/chaomacv/public-data-llm">源码</a> · <a href="https://github.com/chaomacv/public-data-llm/blob/main/docs/full_run_results.md">统计口径</a></p>
 </td>
 </tr>
@@ -52,13 +58,19 @@
 <p><strong>先理解异常，再定位缺陷。</strong></p>
 <p>使用 Qwen3-VL 识别铁路巡检图像中的异常类别与视觉证据，再以预测类别引导 GroundingDINO 定位；研究流程涵盖教师监督、合成数据增强、SFT 及可选 GRPO / GSPO 后训练。</p>
 <p><code>Qwen3-VL</code> <code>GroundingDINO</code><br><code>SFT</code> <code>GRPO / GSPO</code> <code>Multimodal Reasoning</code></p>
-<p><a href="https://chaomacv.github.io/RAIL-SECURTTY-BENCH/"><strong>研究展示 ↗</strong></a> · <a href="https://github.com/chaomacv/RailMind">方法与代码</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>Rail-Security-Bench</h3>
 <p><strong>面向铁路基础设施安全的多模态评测。</strong></p>
 <p>聚焦异常理解与定位，覆盖钢桥、声屏障、周边环境、电力塔、轨道和接触网支柱六类巡检场景，提供研究展示、评测介绍及交互式数据引擎。</p>
 <p><code>Benchmark</code> <code>Visual Grounding</code><br><code>Railway Inspection</code> <code>Data Engine</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="bottom">
+<p><a href="https://chaomacv.github.io/RAIL-SECURTTY-BENCH/"><strong>研究展示 ↗</strong></a> · <a href="https://github.com/chaomacv/RailMind">方法与代码</a></p>
+</td>
+<td width="50%" valign="bottom">
 <p><a href="https://chaomacv.github.io/RAIL-SECURTTY-BENCH/"><strong>Benchmark 展示 ↗</strong></a> · <a href="https://chaomacv.github.io/RAIL-SECURTTY-BENCH/data-engine/">数据引擎</a> · <a href="https://github.com/chaomacv/RAIL-SECURTTY-BENCH">源码</a></p>
 </td>
 </tr>
